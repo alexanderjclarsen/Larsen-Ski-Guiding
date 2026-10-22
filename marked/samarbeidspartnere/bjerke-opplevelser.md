@@ -10,6 +10,10 @@ Alexander jobber som innleid guide og instruktør for Bjerke Opplevelser.
 
 **MÅ AVKLARES:** Gjeldende dagsats og oppdrag er ikke registrert ennå.
 
+## Avtale for guiding (utkast oktober 2026)
+Status: **VURDERES** – ikke signert. Utkastet foreslår 4 000 kr/dag (rando og fjelltur) og 3 500/4 000 kr (blåis), gyldig ut 2026.
+Se gjennomgangen i `bjerke-avtale-gjennomgang-2026-10.md`.
+
 ## Kursmateriell og rettigheter
 Larsen Ski & Guiding har laget egne kursbeskrivelser (skredkurs 2 og 3 dager) til bruk hos Bjerke Opplevelser.
 
