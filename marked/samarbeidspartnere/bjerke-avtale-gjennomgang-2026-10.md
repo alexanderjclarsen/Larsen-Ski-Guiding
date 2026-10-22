@@ -42,7 +42,7 @@ Resten er justeringer: priser, varighet og opphavsrett til bilder og kursmaterie
 | Fjelltur sommer | 4 000 kr | 4 000 kr er akseptabelt **hvis** utgifter og avbestilling løses | Du betaler selv Nora 3 900 kr som innleid guide. 4 000 kr gir lite margin når du har egne utgifter. |
 | Brekurs/skredkurs | Avtales ved forespørsel | Greit | Ta betalt for forberedelser og kursmateriell. |
 
-Jeg har ikke undersøkt markedssatser for innleide guider. Tallene over bygger på dine egne satser (3 900 kr til Nora og 5 500 kr/dag for privat guiding i Jotunheimen).
+**Markedssjekk (22.10.2026), se `marked/konkurrenter/prisoversikt-guiding-2026-10.md`:** Ingen publiserer satser for innleide guider. Kundeprisene viser at Bjerke tar inn omtrent 7 000–8 000 kr per guidedag med 4–6 gjester. 4 000 kr til guiden er da 50–55 %, og 4 000 kr ligger i nedre til midtre del av det som er rimelig. Med 1–3 gjester på blåis tjener Bjerke lite. Andre arrangører løser det med minimum 5 deltakere eller privatpris på 6 000–6 500 kr. Derfor er det Bjerkes jobb å prise små grupper riktig, ikke å kutte guidesatsen. Uten fullført breførerutdanning er det likevel vanskelig å forhandle seg langt over 4 000 kr på blåis. **Avbestilling og utgifter er verdt mer enn 500 kr ekstra i dagsats.**
 
 **Det som mangler i punkt 3:**
 - **MVA:** Skriv *«Alle priser er eks. mva.»*, eller avklar med regnskapsfører om du skal ha mva på guiding. Kurs kan være unntatt. Dette må stå tydelig.
