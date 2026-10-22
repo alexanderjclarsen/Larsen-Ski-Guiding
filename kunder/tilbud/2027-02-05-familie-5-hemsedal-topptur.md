@@ -1,57 +1,51 @@
-# Topptur Hemsedal – familie på 5, 5.–7. februar 2027
+# Guidede toppturer Hemsedal – familie på 5, 5.–7. februar 2027
 
-> **Status: UTKAST – ikke sendt.** Programmet bygger på antakelser (se «Må avklares»). Prisen må godkjennes av Alexander før tilbudet sendes.
+> **Status: UTKAST – ikke sendt.** Prisen må godkjennes av Alexander før tilbudet sendes.
 
-**Antakelser:** Fredag 5. februar er ankomst med en kort kveldsprat. Guiding lørdag 6. og søndag 7. februar. Søndagen avsluttes tidlig, så familien rekker hjem.
+**Bekreftet av Alexander:** Ankomst fredag 5. februar. Guidede toppturer lørdag 6. og søndag 7. februar. Dette er guiding, ikke kurs.
 
 ---
 
 ## DEL 1 – TIL KUNDEN
 
 ### Toppturhelg i Hemsedal
-To dager med topptur, laget for familien deres. Første dag går med til å bli trygge på utstyr og teknikk. Andre dag går vi en skikkelig tur opp og kjører ned i den beste snøen vi finner.
+To dager med guidede toppturer, satt sammen for familien deres. Vi går opp i fint fjellterreng og kjører ned der snøen er best. Turvalg og tempo tilpasses dere, været og forholdene.
 
-Turvalg og tempo tilpasses dere og forholdene. Jeg følger skredvarsel og vær tett i dagene før, og endelig plan legges fredag kveld.
+Jeg følger skredvarsel og vær tett i dagene før dere kommer, og sender endelig plan fredag kveld.
 
 ---
 
-### Fredag 5. februar – Ankomst og planlegging
-**Kl. 19:00 (ca. 45 min)** – Vi møtes der dere bor, eller tar det på video.
-- Hilse på og høre hva dere ønsker av helgen
-- Gå gjennom vær, skredvarsel og plan for lørdag og søndag
-- Sjekke utstyr: feller, bindinger og støvler, og at sender/mottaker fungerer
+### Fredag 5. februar – Ankomst
+Dere ankommer Hemsedal. Fredag kveld får dere plan for helgen, oppmøtested og tidspunkt fra meg.
 
-### Lørdag 6. februar – Trygg start og god snø
+*Ønsker dere en kort prat og utstyrssjekk fredag kveld, ordner vi gjerne det.*
+
+### Lørdag 6. februar – Første turdag
 **Oppmøte kl. 09:00 · ferdig ca. kl. 15:00**
-- Sjekk av sender/mottaker og kort kameratredningsøvelse: søk, søkestang og graving
-- Fellegåing i praksis: rytme, kickturns og hvordan man sparer krefter
-- Heisen opp, så korte turer videre fra toppen av skisenteret
-- Faretegn og trygge veivalg underveis, mens vi går
-- Flere nedkjøringer der snøen er best, med tips til kjøring i løssnø
+- Kort sikkerhetsgjennomgang og sjekk av sender/mottaker før vi starter
+- En fin tur der vi kommer i gang, finner rytmen og blir kjent med terrenget
+- Nedkjøringer i den beste snøen vi finner
+- Pause med mat og varm drikke underveis
 
-*Målet for dagen er at alle føler seg trygge og har det gøy.*
-
-### Søndag 7. februar – Toppturdagen
+### Søndag 7. februar – Andre turdag
 **Oppmøte kl. 08:30 · ferdig ca. kl. 14:30–15:00**
-- Dagens hovedtur, valgt etter forhold, form og ønsker. Vi går mot en topp med god utsikt og en fin nedkjøring.
-- Vi øver på veivalg i terrenget og ser hvordan vi bruker snøen til å finne de beste nedkjøringene
-- Pauser med varm drikke og mat underveis
+- Helgens hovedtur, mot en topp med god utsikt og en fin nedkjøring, valgt etter forhold og form
+- Pauser med mat og varm drikke
 - Tidlig nok ferdig til at dere rekker hjemreisen
 
-*Hvis forholdene ikke tillater planlagt tur, velger vi et tryggere alternativ med like god skiopplevelse. Sikkerheten går alltid foran toppen.*
+*Hvis forholdene ikke tillater planlagt tur, velger jeg et tryggere alternativ med like god skiopplevelse. Sikkerheten går alltid foran toppen.*
 
 ---
 
 ### Dette er inkludert
-- Personlig planlegging og tilpasning av programmet
-- Fredagsmøte med gjennomgang av plan og utstyr
+- Planlegging og tilpasning av turene til familien
 - Guiding begge dager
-- Opplæring i kameratredning og trygg ferdsel i vinterfjellet
+- Sikkerhetsgjennomgang før start
 - *[Avklares: lån av sender/mottaker, spade og søkestang]*
 
 ### Ikke inkludert
-- Heiskort (lørdag)
 - Toppturski eller splitboard med feller, hvis dere må leie
+- Eventuelle heiskort
 - Overnatting, mat og transport
 
 ### Pakkeliste
@@ -69,20 +63,21 @@ Programmet kan endres på kort varsel på grunn av vær, føre eller skredfare. 
 ## DEL 2 – INTERNT (sendes ikke til kunden)
 
 ### Må avklares med kunden
-1. **Alder og skinivå** på alle fem, særlig barna. Det avgjør om det trengs én eller to guider.
-2. **Toppturerfaring:** Har noen gått på feller før?
-3. **Utstyr:** Hva har de selv, og hva må leies eller lånes? Gjelder særlig sender/mottaker til fem personer.
-4. **Er de tidligere kunder?** I så fall gjelder lojalitetskampanjen hvis de booker før 30.11.2026.
-5. **Hvor bor de** i Hemsedal? Det påvirker oppmøtested og fredagsmøtet.
-6. **Spesielle ønsker:** mest pudder, mest «topp», eller mest læring?
+Spørsmålene er samlet i `2027-02-05-familie-5-hemsedal-epost-sporsmal.md`, klar til å sendes.
+1. Alder og skinivå på alle fem, særlig barna
+2. Toppturerfaring
+3. Eget utstyr, særlig sender/mottaker, spade og søkestang til alle fem
+4. Om de er tidligere kunder
+5. Hvor de bor i Hemsedal
+6. Ønsker for helgen
 
 ### Guidebehov
 Fem deltakere på topptur er i øvre del av hva én guide bør ha, særlig med barn eller uerfarne. Avgjøres ut fra alder, nivå og forhold.
-- **1 guide:** voksne eller ungdom med god skiferdighet.
-- **2 guider:** yngre barn eller stor nivåforskjell. Mulig med Nora som guide nummer to eller aspirant, men satsen er ikke avklart.
+- **1 guide:** voksne eller ungdom med god skiferdighet og litt erfaring.
+- **2 guider:** yngre barn, stor nivåforskjell eller ingen toppturerfaring. Mulig med Nora, men satsen for guide nummer to er ikke avklart.
 
 ### Prisgrunnlag – IKKE GODKJENT
-Prisreferanser for Hemsedal: 4 500 kr/dag (høsten 2026) og 5 500–6 000 kr/dag. Ingen godkjent prisliste finnes.
+Prisreferanser for privat guiding i Hemsedal: 4 500 kr/dag (høsten 2026) og 5 500–6 000 kr/dag. Ingen godkjent prisliste finnes.
 
 | Alternativ | Beregning | Total | Per person |
 |---|---|---|---|
@@ -95,7 +90,7 @@ Prisreferanser for Hemsedal: 4 500 kr/dag (høsten 2026) og 5 500–6 000 kr/dag
 **Kostnad for guide nummer to:** Innleid sats er 3 900 kr/dag, altså 7 800 kr for to dager. Påslaget for en ekstra guide bør minst dekke dette, pluss margin.
 
 ### Claudes vurdering
-- **4 500 kr/dag er for lavt for dette oppdraget.** Det inkluderer fredagsmøte, planlegging, opplæring i kameratredning og fem deltakere. Anbefaler minst **5 500–6 000 kr/dag** for én guide.
-- Fredagsmøtet og planleggingen er reelt arbeid. Det bør enten prises inn eller tydelig fremheves som en del av verdien.
+- **4 500 kr/dag er for lavt med fem deltakere.** Det er privat guiding for en hel familie, med planlegging og oppfølging av forholdene i forkant. Anbefaler **5 500–6 000 kr/dag** for én guide.
+- Med fem personer er 2 200–2 400 kr per person per helg fortsatt en god pris for kunden.
 - Hvis det trengs to guider, må prisen økes. Den skal ikke deles på samme totalbeløp.
 - Hvis de er tidligere kunder, kan en fordel som lån av sikkerhetsutstyr være bedre enn prosentrabatt.
