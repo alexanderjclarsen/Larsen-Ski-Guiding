@@ -84,6 +84,8 @@ Blizzard i kursbeskrivelser, utstyrsanbefalinger, kursprogram (vinterprogram 26/
 
 ## DETTE ØNSKER JEG
 
+Jeg har ingen skiavtale i dag, og kan derfor kjøre Blizzard eksklusivt i alt jeg gjør, på kurs, guiding og innhold.
+
 Jeg er åpen for å finne riktig modell sammen med dere:
 
 - **Utstyrsavtale** – frikjørings- og toppturski for sesongen 2026/27
@@ -118,6 +120,6 @@ Instagram: @alexanderjclarsen · @larsenskiguiding
 - **Talllinje:** Store tall – 2 490 følgere totalt · 14 900 toppvisninger · 13 900 visninger/30 dager · kurs hver helg jan–mars.
 - **«Dette får Blizzard»:** Fem korte kort med ikoner.
 - **Bildeutvalg fra Instagram:** skredtest CT5, kursgruppe på topptur, kickturn, frikjøring i pudder, bre.
-- **Unngå bilder der andre skimerker synes** (f.eks. Black Crows i profilbildet, HEAD i en av videoene).
+- **Unngå bilder der andre skimerker synes** (f.eks. Black Crows i profilbildet, HEAD i en av videoene). Ingen eksisterende skiavtale – bekreftet 23.10.2026.
 - **Bunn:** Profilbilde, kontaktinfo, to Instagram-knapper.
 - **Lengde:** Skumlesbar på 30 sekunder.
