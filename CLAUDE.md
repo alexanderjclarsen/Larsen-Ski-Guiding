@@ -96,9 +96,9 @@ Alexander er under utdanning, ikke ferdig sertifisert IFMGA-guide.
 - NF skredinstruktørrelatert utdanning/metodekurs i 2026.
 - NF høyfjell.
 - NF førstehjelp.
-- NF breførerkurs juni 2026 ble avbrutt.
+- Brefører. BEKREFTET av Alexander 23.10.2026.
 
-Det skal ikke oppgis at Alexander har fullført breførerutdanning dersom dette ikke er dokumentert.
+Tidligere notat om at NF breførerkurs i juni 2026 ble avbrutt er erstattet av Alexanders bekreftelse over.
 
 ## Hvordan kompetansen skal markedsføres
 
