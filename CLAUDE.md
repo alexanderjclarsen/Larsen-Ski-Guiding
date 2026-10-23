@@ -81,11 +81,11 @@ Målet er å levere kvalitet som forsvarer en god pris.
 
 ## Ski
 
-- ISIA Skilærer nivå 3, oppnådd i 2025.
-- Søker eller arbeider mot Skilærer nivå 4 i 2026.
-- ISIA Speedtest planlagt.
-- Bestått opptak til Nortind Skivegleder i april 2026.
-- Under utdanning hos Nortind fra høsten 2026.
+- ISIA-godkjent skilærer nivå 4 (høyeste nivå). BEKREFTET av Alexander 23.10.2026.
+- Alpintrener.
+- Bestått opptak til Nortind Skivegleder i april 2026. Yngst i kullet.
+- Under kvalifisering til Skivegleder hos Nortind fra høsten 2026.
+- Plan om videreutdanning til IFMGA Tindevegleder (VURDERES, ikke påbegynt).
 
 Nortind-utdanningen må omtales presist.
 
