@@ -25,6 +25,8 @@ Ombooking kan tilbys, uten plikt, hvis det er kapasitet.
 
 **3.3 Guidede dagsturer på bre:** Full refusjon ved avbestilling innen 30 dager før oppstart. Ingen refusjon senere.
 
+**3.4 Overnatting (BEKREFTET av Alexander 23.10.2026):** Avbestilling av overnatting følger overnattingsstedets egne vilkår, også når overnattingen er booket eller fakturert gjennom Larsen Ski & Guiding. Refusjonsreglene over gjelder guiding og kurs. *Står ikke på nettsiden ennå og bør legges inn.*
+
 **MÅ AVKLARES:** Det står «30 dager eller mer» i 3.1, men «16–30 dager» i tabellen, så 30 dager er nevnt to ganger. Ordlyden i 3.3 («innen» / «senere enn» 30 dager) kan også misforstås.
 
 ## 4. Endring eller avlysning fra arrangør

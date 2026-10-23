@@ -453,6 +453,14 @@ Regelen gjelder deltakeren selv. Sykdom hos familiemedlemmer dekkes ikke. Henvis
 - Avbestilling innen 30 dager før oppstart: full refusjon.
 - Avbestilling senere enn 30 dager før oppstart: ingen refusjon.
 
+### 3.4 Overnatting
+
+BEKREFTET av Alexander 23.10.2026: Avbestilling av overnatting følger overnattingsstedets egne vilkår, også når overnattingen er booket eller fakturert gjennom Larsen Ski & Guiding. Refusjonsreglene i punkt 3.1–3.3 og punkt 4 og 8 gjelder guiding og kurs.
+
+Når du skriver tilbud og svarer kunder: Si tydelig at overnattingen har egne avbestillingsvilkår, og oppgi dem eller henvis til overnattingsstedet.
+
+MÅ AVKLARES: Punktet står foreløpig ikke på nettsiden. Det bør legges inn der, slik at det er avtalt med kunden.
+
 ## 4. Endring eller avlysning fra arrangør
 
 Larsen Ski & Guiding kan avlyse eller endre et arrangement ved:
@@ -502,7 +510,8 @@ Teksten Claude fikk var avkortet. Les hele punktet på nettsiden.
 
 - 3.1 sier både «30 dager eller mer» (100 %) og «16–30 dager» (50 %), så 30 dager er nevnt to ganger. Inntil dette er rettet: tolk det til kundens fordel, altså full refusjon ved avbestilling senest 30 dager før.
 - Formuleringen i 3.3 («innen» / «senere enn» 30 dager) kan misforstås.
-- Punkt 8 nevner bare «kurskostnad». Det er uklart hva som gjelder for overnatting og andre kostnader i pakker.
+- Punkt 8 nevner bare «kurskostnad». Overnatting er avklart i 3.4. Det er fortsatt uklart hva som gjelder for andre tredjepartskostnader i pakker, som transport.
+- Punkt 3.4 om overnatting må legges inn på nettsiden.
 - Juridisk gjennomgang er fortsatt anbefalt.
 
 ---
