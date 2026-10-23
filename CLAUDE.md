@@ -1,6 +1,6 @@
 # LARSEN SKI & GUIDING
 ## Komplett prosjektkontekst for Claude Code
-Oppdatert: 22. oktober 2026
+Oppdatert: 23. oktober 2026
 
 VIKTIG:
 Dette dokumentet samler tilgjengelig informasjon fra tidligere samtaler om Larsen Ski & Guiding. Det er en prosjektkunnskapsbase, ikke en ordrett eksport av samtlige samtaler eller originale dokumenter.
@@ -413,52 +413,97 @@ Alle prosedyrer må tilpasses aktiviteten og gjeldende krav.
 
 # 8. BOOKING OG AVBESTILLING
 
-Følgende vilkår har vært diskutert.
+BEKREFTET: Vilkårene er publisert på https://www.larsenskiguiding.no/vilkar/ og gjelder for alle kurs og turer.
 
-De må kvalitetssikres før offentlig bruk.
+Nettsiden er den gjeldende kilden. Full gjengivelse og kommentarer ligger i administrasjon/booking.md.
 
-## Tidligere foreslåtte regler
+Bruk disse vilkårene i all kundekommunikasjon, i tilbud og i svar på spørsmål om betaling og avbestilling. Ikke lov kunder noe som går utover vilkårene, med mindre Alexander godkjenner det.
 
-Ved avbestilling fra deltaker:
+## 1. Avtaleinngåelse og betaling
 
-Mer enn 30 dager før:
-100 % refusjon.
+- Avtalen er inngått ved påmelding og betaling av tilsendt faktura. Påmeldingen er bindende.
+- Faktura sendes etter påmelding. Plassen er reservert når betalingen er registrert innen fristen.
+- Hele beløpet faktureres ved påmelding.
 
-16–30 dager før:
-50 % refusjon.
+## 2. Forsikring
 
-15 dager eller mindre:
-Ingen refusjon.
+Larsen Ski & Guiding tilbyr ikke avbestillingsbeskyttelse eller reise- eller ulykkesforsikring.
 
-Ved uteblivelse:
-Ingen refusjon.
+Deltakeren må selv tegne reiseforsikring og eventuell avbestillingsbeskyttelse.
 
-## Sykdom eller ulykke
+## 3. Avbestilling fra deltaker
 
-Det har vært diskutert mulighet for refusjon ved dokumentert sykdom eller ulykke, med et gebyr på 1 500 kr.
+Avbestilling må skje skriftlig.
 
-Dette er ikke nødvendigvis endelig vedtatt.
+- 30 dager eller mer før oppstart: 100 % refusjon.
+- 16–30 dager før oppstart: 50 % refusjon.
+- 15 dager eller mindre før oppstart, eller manglende oppmøte: ingen refusjon.
+- Ombooking kan tilbys, uten plikt, hvis det er kapasitet.
 
-## Bre- og dagsturer
+### 3.2 Sykdom eller ulykke
 
-Det har også vært vurdert strengere regler for enkelte produkter.
+Ved dokumentert, akutt sykdom eller ulykke kan deltakeren avbestille mot et administrasjonsgebyr på 1 500 kr.
 
-Disse må harmoniseres med øvrige vilkår.
+Gyldig legeerklæring kreves.
 
-## Avlysning fra arrangør
+Regelen gjelder deltakeren selv. Sykdom hos familiemedlemmer dekkes ikke. Henvis kunden til egen reiseforsikring.
 
-Tidligere foreslått:
+### 3.3 Guidede dagsturer på bre
 
-- Full refusjon eller ombooking.
-- Mulighet for avlysning ved uforsvarlig vær og føre.
-- Sikkerhetsmessige forhold.
-- Sykdom.
-- For få deltakere.
-- Andre uforutsette forhold.
+- Avbestilling innen 30 dager før oppstart: full refusjon.
+- Avbestilling senere enn 30 dager før oppstart: ingen refusjon.
 
-Det har vært diskutert frister på 30 dager for turer og 15 dager for kurs ved lav deltakelse.
+## 4. Endring eller avlysning fra arrangør
 
-Juridisk gjennomgang anbefales før publisering.
+Larsen Ski & Guiding kan avlyse eller endre et arrangement ved:
+
+- for få deltakere
+- vær og føre som gir sikkerhetsrisiko
+- sykdom eller andre uforutsette forhold hos guiden
+
+Frist for avlysning på grunn av for få påmeldte:
+
+- 30 dager før oppstart for guidede turer
+- 15 dager før oppstart for kurs
+
+Ved avlysning refunderes hele det innbetalte beløpet, eller man avtaler et nytt tidspunkt.
+
+## 5. Helse og forutsetninger
+
+Deltakeren plikter å opplyse om helseforhold som kan ha betydning.
+
+Larsen Ski & Guiding kan nekte deltakelse hvis helse, ferdigheter eller utstyr gir sikkerhetsrisiko.
+
+## 6. Endringer underveis
+
+Endringer i program, rute eller gjennomføring på grunn av vær, føre eller andre forhold gir ikke rett til refusjon, så lenge arrangementet gjennomføres forsvarlig.
+
+## 7. Ansvar og utstyr
+
+Deltakeren har ansvar for eget utstyr, med mindre noe annet er avtalt.
+
+Lånt eller leid utstyr som skades eller går tapt ved uaktsomhet, må erstattes.
+
+## 8. Sykdom eller skade hos guide
+
+Arrangementet kan bli utsatt eller avlyst.
+
+Nytt tidspunkt tilbys så langt det er mulig. Hvis det ikke går, refunderes kurskostnaden i sin helhet.
+
+## 9. Ansvarsbegrensning
+
+Deltakelse skjer på eget ansvar.
+
+Larsen Ski & Guiding er ikke ansvarlig for indirekte tap, f.eks. tap som følge av avbrutt tur, værforhold eller forsinkelser.
+
+Teksten Claude fikk var avkortet. Les hele punktet på nettsiden.
+
+## MÅ AVKLARES
+
+- 3.1 sier både «30 dager eller mer» (100 %) og «16–30 dager» (50 %), så 30 dager er nevnt to ganger. Inntil dette er rettet: tolk det til kundens fordel, altså full refusjon ved avbestilling senest 30 dager før.
+- Formuleringen i 3.3 («innen» / «senere enn» 30 dager) kan misforstås.
+- Punkt 8 nevner bare «kurskostnad». Det er uklart hva som gjelder for overnatting og andre kostnader i pakker.
+- Juridisk gjennomgang er fortsatt anbefalt.
 
 ---
 
